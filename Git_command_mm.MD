@@ -4,7 +4,7 @@ Git Commands
 
 ### Git Project အသစ်တစ်ခု စတင်ပြုလုပ်ခြင်း
 
-| Command | Description |
+| Command | ဖော်ပြချက် |
 | ------- | ----------- |
 | `git init` | folder ကို Git folder အဖြစ်သတ်မှတ်ခြင်း  |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | ရှိပြီးသား git folder တစ်ခုအား local PJ folder အဖြစ်သတ်မှတ်ခြင်း |
