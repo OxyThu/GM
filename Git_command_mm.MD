@@ -39,7 +39,7 @@ Git Commands
 | `git stash` | Stash changes in a dirty working directory |
 | `git stash clear` | Remove all stashed entries |
 
-###မျှဝေခြင်း နှင့် ပြန်လည်ပြင်ဆင်ခြင်း
+### မျှဝေခြင်း နှင့် ပြန်လည်ပြင်ဆင်ခြင်း
 
 | Command | ဖော်ပြချက် |
 | ------- | ----------- |
